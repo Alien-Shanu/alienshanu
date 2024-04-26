@@ -6,12 +6,12 @@ const COMMANDS = {
   whoami:
     'Black Alien 👽',
   8055:
-    'Supported commands: <span class="code">tools</span>, <span class="code">files</span>, <span class="code">showme</span>',
-  tools:'Supported commands: <span class="code">hackbar</span>, <span class="code">shell</span>, <span class="code">ransomeware</span><span class="code">rat</span>',
-  files:'Supported commands: <span class="code">notes</span>, <span class="code">hacking video</span>, <span class="code">pdf course</span><span class="code">links</span>',
+    'Supported commands: <span class="code">tools 🛠️</span>, <span class="code">files 📁</span>, <span class="code">showme 🖼️</span>',
+  tools:'Supported commands: <span class="code">hackbar 👨🏻‍💻</span>, <span class="code">shell 🩲</span>, <span class="code">ransomeware 👾</span>, <span class="code">rat 🐁</span>',
+  files:'Supported commands: <span class="code">notes 🗒️</span>, <span class="code">hacking videos 🖥️</span>, <span class="code">pdf course 💾</span><span class="code">links 🔗</span>',
   showme:'<img src="./img/showme.png">',
   
-  hackbar:'Supported commands: <span class="code">download</span>, <span class="code">installation</span>',
+  hackbar:'Supported commands: <span class="code">download ⬇️</span>, <span class="code">installation ✅</span>',
   download:"<a href='./HBM Hackbar 2020-v.07.1.xpi' class='success link'><img src='./hkbar.png'></a> <a href='./Alien 2020 Red Button Theme.rar' class='success link'><img src='./theme.png'></a>",
   installation:"<video width='150' height='120' controls><source src='./HBM.mp4' type='video/mp4'></a>",
   
