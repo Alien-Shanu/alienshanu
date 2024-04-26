@@ -17,7 +17,7 @@ const COMMANDS = {
   
   
   cry:'<embed src="./scarylaugh.mp3"autostart style="visibility:hidden" type="audio/mpeg"></embed>',
-  fuck:'<img src="./img/fkst.webp" alt="WebP rules." width="320" height="240"><embed src="./fk.mp3"autostart style="visibility:hidden" type="audio/mpeg"></embed>',
+  fuck:'<img src="./fkst.webp" alt="WebP rules." width="320" height="240"><embed src="./fk.mp3"autostart style="visibility:hidden" type="audio/mpeg"></embed>',
   
   
   help:
