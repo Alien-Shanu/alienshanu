@@ -17,7 +17,7 @@ const COMMANDS = {
   
   
   cry:'<embed src="./scarylaugh.mp3"autostart style="visibility:hidden" type="audio/mpeg"></embed>',
-  
+  fuck you :'<embed src="./scarylaugh.mp3"autostart style="visibility:hidden" type="audio/mpeg"></embed>',
   
   
   help:
