@@ -1,4 +1,5 @@
 window.onload = () => {
+  document.addEventListener('contextmenu', event => event.preventDefault());
   const myInput = document.getElementById('dummyKeyboard');
   myInput.onpaste = e => e.preventDefault();
  }
