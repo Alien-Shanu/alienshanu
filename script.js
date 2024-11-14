@@ -24,7 +24,7 @@ const COMMANDS = {
   fuck:'<img src="./fkst.webp" alt="WebP rules." width="320" height="240"><embed src="./fk.mp3"autostart style="visibility:hidden" type="audio/mpeg"></embed>',
   hi: "Entha Monoose modeyaanoo",
   whoareyou: "Ninte kunjammede mon",
-  hallo: "Amme dhe oru pichakkaran",
+  hello: "Amme dhe oru pichakkaran",
 
 
   
