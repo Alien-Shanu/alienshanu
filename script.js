@@ -8,7 +8,7 @@ const COMMANDS = {
     'Black Alien 👽',
   8055:
     'Supported commands: <span class="code">tools 🛠️</span>, <span class="code">files 📁</span>, <span class="code">showme 🖼️</span>',
-  tools:'Supported commands: <span class="code">hackbar 👨🏻‍💻</span>, <span class="code">shell 🩲</span>, <span class="code">ransomeware 👾</span>, <span class="code">rat 🐁</span>',
+  tools:'Supported commands: <span class="code">hackbar 👨🏻‍💻</span>, <span class="code">shell 🩲</span>, <span class="code">ransomeware 👾</span>, <span class="code">rat 🐁</span>, <span class="code">rainmeter 👨🏻‍💻</span>', 
   files:'Supported commands: <span class="code">notes 🗒️</span>, <span class="code">hacking videos 🖥️</span>, <span class="code">pdf course 💾</span><span class="code">links 🔗</span>',
   showme:'<img src="./showme.png">',
   
