@@ -20,7 +20,7 @@ const COMMANDS = {
   alien_skin:"<a href='./Alien Rain Meter Skin_5.0.zip' class='success link'><img src='./rmtr.png'></a> ",
   skin_install:"<video width='300' height='240' controls><source src='./Rain.mp4' type='video/mp4'></a>",
   
-  cry:'<img src="./eye.webp" alt="WebP rules." width="320" height="240"><embed src="./scarylaugh.mp3"autostart style="visibility:hidden" type="audio/mpeg"></embed>',
+  cry:'<img src="./eye.webp" alt="WebP rules." width="320" height="240"><img src="./eye2.webp" alt="WebP rules." width="320" height="240"><embed src="./scarylaugh.mp3"autostart style="visibility:hidden" type="audio/mpeg"></embed>',
   fuck:'<img src="./fkst.webp" alt="WebP rules." width="320" height="240"><embed src="./fk.mp3"autostart style="visibility:hidden" type="audio/mpeg"></embed>',
   
   hi: "Entha Monoose modeyaanoo",
