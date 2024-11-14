@@ -26,7 +26,7 @@ const COMMANDS = {
   whoareyou: "Ninte kunjammede mon",
   hello: "Amme dhe oru pichakkaran",
   iloveyou: "Ok, Can i kissyou ?",
-  willyoumarryme: "Why not , am ready to f**k"
+  willyoumarryme: "Why not , am ready to f**k",
 
 
   
