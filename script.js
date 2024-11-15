@@ -32,7 +32,9 @@ const COMMANDS = {
   sqlmap: '<span class="code2"> nthoot mairinaadoo, pornhub hekkanano? </span>',
   ls: '<span class="code2"> Sarithayude List veno  Swapnayude list veno ser </span>',
   wget: '<span class="code2"> Ee linkam kittola monoose, pornhubil onnu nokk chilappol kittum </span>',
-
+  md: '<span class="code2"> oompi MD aanathre </span>',
+  cd: '<span class="code2"> Thund CD onnum illadey... </span>',
+  
   
   help:
     'Supported commands: <span class="code">about</span>, <span class="code">experience</span>, <span class="code">education</span>, <span class="code">skills</span>, <span class="code">acknowledges</span>, <span class="code">certificates</span>, <span class="code">contact</span>',
