@@ -8,7 +8,7 @@ const COMMANDS = {
     'Black Alien 👽',
   8055:
     'Supported commands: <span class="code">tools 🛠️</span>, <span class="code">files 📁</span>, <span class="code">showme 🖼️</span>',
-  tools:'Supported commands: <span class="code">hackbar 👨🏻‍💻</span>, <span class="code">shell 🩲</span>, <span class="code">ransomeware 👾</span>, <span class="code">rat 🐁</span>, <span class="code">rainmeter 👨🏻‍💻</span>', 
+  tools:'Supported commands: <span class="code">Hackbar 👨🏻‍💻</span>, <span class="code">Shell 🩲</span>, <span class="code">Ransomeware 👾</span>, <span class="code">Rat 🐁</span>, <span class="code">Rainmeter 👨🏻‍💻</span>', 
   files:'Supported commands: <span class="code">notes 🗒️</span>, <span class="code">hacking videos 🖥️</span>, <span class="code">pdf course 💾</span><span class="code">links 🔗</span>',
   showme:'<img src="./showme.png">',
   
@@ -30,7 +30,7 @@ const COMMANDS = {
   willyoumarryme: "Why not , am ready to f**k",
   ping: "Hmmm, kurach irunnu plingum nee",
   sqlmap: "nthoot mairinaadoo, pornhub hekkanano?",
-  
+  LS: "Sarithayude List veno  Swapnayude list veno ser",
 
 
   
