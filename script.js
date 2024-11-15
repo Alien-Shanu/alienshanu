@@ -27,7 +27,7 @@ const COMMANDS = {
   whoareyou: '<span class="code2"> Ninte kunjammede mon, nthaa maire oru modayano </span>',
   hello: '<span class="code2"> Amme dhe oru pichakkaran </span>',
   iloveyou: '<span class="code2"> Ok, Can i kiss you ? </span>',
-  willyoumarryme: '<span class="code2"> Why not , am ready to </span>, <span class="code1"> f**k </span>',
+  willyoumarryme: '<span class="code2"> Why not , am ready to </span> <span class="code1"> fuck </span>',
   ping: '<span class="code2"> Hmmm, kurach irunnu plingum nee </span>',
   sqlmap: '<span class="code2"> nthoot mairinaadoo, pornhub hekkanano? </span>',
   ls: '<span class="code2"> Sarithayude List veno  Swapnayude list veno ser </span>',
