@@ -24,14 +24,14 @@ const COMMANDS = {
   fuck:'<img src="./fkst.webp" alt="WebP rules." width="320" height="240"><embed src="./fk.mp3"autostart style="visibility:hidden" type="audio/mpeg"></embed>',
   
   hi: '<span class="code2"> Entha Monoose modeyaanoo </span>',
-  whoareyou: "Ninte kunjammede mon, nthaa maire oru modayano",
-  hello: "Amme dhe oru pichakkaran",
-  iloveyou: "Ok, Can i kiss you ?",
-  willyoumarryme: "Why not , am ready to f**k",
-  ping: "Hmmm, kurach irunnu plingum nee",
-  sqlmap: "nthoot mairinaadoo, pornhub hekkanano?",
-  ls: "Sarithayude List veno  Swapnayude list veno ser",
-  wget: "ee linkam kittola monoose, pornhubil onnu nokk chilappol kittum",
+  whoareyou: '<span class="code2"> Ninte kunjammede mon, nthaa maire oru modayano </span>',
+  hello: '<span class="code2"> Amme dhe oru pichakkaran </span>',
+  iloveyou: '<span class="code2"> Ok, Can i kiss you ? </span>',
+  willyoumarryme: '<span class="code2"> Why not , am ready to </span>, <span class="code1"> f**k </span>',
+  ping: '<span class="code2"> Hmmm, kurach irunnu plingum nee </span>',
+  sqlmap: '<span class="code2"> nthoot mairinaadoo, pornhub hekkanano? </span>',
+  ls: '<span class="code2"> Sarithayude List veno  Swapnayude list veno ser </span>',
+  wget: '<span class="code2"> Ee linkam kittola monoose, pornhubil onnu nokk chilappol kittum </span>',
 
   
   help:
