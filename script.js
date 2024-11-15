@@ -30,7 +30,7 @@ const COMMANDS = {
   willyoumarryme: "Why not , am ready to f**k",
   ping: "Hmmm, kurach irunnu plingum nee",
   sqlmap: "nthoot mairinaadoo, pornhub hekkanano?",
-  LS: "Sarithayude List veno  Swapnayude list veno ser",
+  ls: "Sarithayude List veno  Swapnayude list veno ser",
 
 
   
