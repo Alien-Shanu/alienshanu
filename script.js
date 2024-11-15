@@ -6,11 +6,19 @@ window.onload = () => {
 const COMMANDS = {
   whoami:
     'Black Alien 👽',
-  8055:
-    'Supported commands: <span class="code">tools 🛠️</span>, <span class="code">files 📁</span>, <span class="code">showme 🖼️</span>',
-  tools:'Supported commands: <span class="code">Hackbar 👨🏻‍💻</span>, <span class="code">Shell 🩲</span>, <span class="code">Ransomeware 👾</span>, <span class="code">Rat 🐁</span>, <span class="code">Rainmeter 👨🏻‍💻</span>', 
+  
+  help:
+    'Supported commands: <span class="code">tools 🛠️</span>, <span class="code">files 📁</span>, <span class="code">showme 🖼️</span>, <span class="code">about</span>, <span class="code">experience</span>, <span class="code">education</span>, <span class="code">skills</span>, <span class="code">acknowledges</span>, <span class="code">certificates</span>, <span class="code">contact</span>',
+
+  
+  tools:'Supported commands: <span class="code">hackbar 👨🏻‍💻</span>, <span class="code">shell 🩲</span>, <span class="code">ransomeware 👾</span>, <span class="code">rat 🐁</span>, <span class="code">rainmeter 👨🏻‍💻</span>', 
   files:'Supported commands: <span class="code">notes 🗒️</span>, <span class="code">hacking videos 🖥️</span>, <span class="code">pdf course 💾</span><span class="code">links 🔗</span>',
   showme:'<img src="./showme.png">',
+  about: "Hello 👋<br>I'm Alien Shanu 👽. Information Security enthusiast, I do bug bounty hunting, Capture The Flag as a hobby and passion",
+  skills: '<span class="code">Skill:</span>Ethical Hacking, Pentesting, Programming, Bughunting, Graphic Design, 2D Animation, ...<br>',
+  education: "unknown",
+
+
   
   hackbar:'Supported commands: <span class="code">download ⬇️</span>, <span class="code">installation ✅</span>',
   download:"<a href='./HBM Hackbar 2023-v.7.0.1.xpi' class='success link'><img src='./hkbar.png'></a> <a href='./Alien 2020 Red Button Theme.rar' class='success link'><img src='./theme.png'></a>",
@@ -36,11 +44,7 @@ const COMMANDS = {
   cd: '<span class="code2"> Thund CD onnum illadey... </span>',
   
   
-  help:
-    'Supported commands: <span class="code">about</span>, <span class="code">experience</span>, <span class="code">education</span>, <span class="code">skills</span>, <span class="code">acknowledges</span>, <span class="code">certificates</span>, <span class="code">contact</span>',
-  about: "Hello 👋<br>I'm Alien Shanu 👽. Information Security enthusiast, I do bug bounty hunting, Capture The Flag as a hobby and passion",
-  skills: '<span class="code">Skill:</span>Ethical Hacking, Pentesting, Programming, Bughunting, Graphic Design, 2D Animation, ...<br>',
-  education: "unknown",
+
   
   certificates: 'Supported commands: <span class="code">CEH</span>, <span class="code">eWPTX</span>,<span class="code">CRTP</span>,<span class="code">APT</span>,<span class="code">NULLCON</span>',
 
