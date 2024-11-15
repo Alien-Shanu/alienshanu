@@ -31,7 +31,7 @@ const COMMANDS = {
   ping: "Hmmm, kurach irunnu plingum nee",
   sqlmap: "nthoot mairinaadoo, pornhub hekkanano?",
   ls: "Sarithayude List veno  Swapnayude list veno ser",
-
+  wget: "ee linkam kittola monoose, pornhubil onnu nokk chilappol kittum",
 
   
   help:
