@@ -23,10 +23,10 @@ const COMMANDS = {
   cry:'<img src="./eye.webp" alt="WebP rules." width="320" height="240"><embed src="./scarylaugh.mp3"autostart style="visibility:hidden" type="audio/mpeg"></embed>',
   fuck:'<img src="./fkst.webp" alt="WebP rules." width="320" height="240"><embed src="./fk.mp3"autostart style="visibility:hidden" type="audio/mpeg"></embed>',
   
-  hi: "Entha Monoose modeyaanoo",
+  hi: '<span class="code2"> Entha Monoose modeyaanoo </span>',
   whoareyou: "Ninte kunjammede mon, nthaa maire oru modayano",
   hello: "Amme dhe oru pichakkaran",
-  iloveyou: "Ok, Can i kissyou ?",
+  iloveyou: "Ok, Can i kiss you ?",
   willyoumarryme: "Why not , am ready to f**k",
   ping: "Hmmm, kurach irunnu plingum nee",
   sqlmap: "nthoot mairinaadoo, pornhub hekkanano?",
