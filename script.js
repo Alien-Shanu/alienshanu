@@ -27,7 +27,7 @@ const COMMANDS = {
   skills: '<span class="code">Skill:</span>Ethical Hacking, Pentesting, Programming, Bughunting, Graphic Design, 2D Animation, ...<br>',
   acknowledges: "<a href='xxxx' class='success link'>Google Hall of Fame</a> , <a href='xxxx' class='success link'>Nokia HOF</a> , <a href='xxxx' class='success link'>dev.to HOF</a> , <a href='xxxx' class='success link'>Netflix HOF</a> , <a href='xxxx' class='success link'>Pinterest HOF</a> , <a href='xxxx' class='success link'>Philips HOF</a> , <a href='xxxx' class='success link'>Soundcloud HOF</a> , <a class='success link'>many more...</a>  ", 
   certificates: 'Supported commands: <span class="code">CEH</span>, <span class="code">eWPTX</span>,<span class="code">CRTP</span>,<span class="code">APT</span>,<span class="code">NULLCON</span>',
-     ceh: "<a href='https://www.alienshanu.me/CEH.jpg' class='success link'>CEH</a>",
+     ceh: "<a href='https://www.alienshanu.me/CEH CERTIFICATE.pdf' class='success link'>CEH</a>",
      ewptx: "<a href='https://www.alienshanu.me/eWPTX.jpg' class='success link'>eWPTX</a>",
      crtp: "<a href='https://www.alienshanu.me/CRTP.jpg' class='success link'>CRTP</a>",
      apt: "<a href='https://www.alienshanu.me/APT.jpg' class='success link'>APT</a>",
