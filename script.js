@@ -23,7 +23,7 @@ const COMMANDS = {
   showme: '<img src="./showme.png"> <embed src="./showme.mp3"autostart style="visibility:hidden" type="audio/mpeg"></embed>',
   about: "Hello 👋<br>I'm Alien Shanu 👽. Information Security enthusiast, I do bug bounty hunting, Capture The Flag as a hobby and passion",
   experience: "No Experience😥",
-  education: 'Unknown <embed src="./education.mp3"autostart style="visibility:hidden" type="audio/mpeg"></embed>',
+  education: 'Unknown🤷🏻‍♂️ <img src="./education.webp" alt="WebP rules." width="180" height="180"><embed src="./education.mp3"autostart style="visibility:hidden" type="audio/mpeg"></embed>',
   skills: '<span class="code">Skill:</span>Ethical Hacking, Pentesting, Programming, Bughunting, Graphic Design, 2D Animation, ...<br>',
   acknowledges: "<a href='xxxx' class='success link'>Google Hall of Fame</a> , <a href='xxxx' class='success link'>Nokia HOF</a> , <a href='xxxx' class='success link'>dev.to HOF</a> , <a href='xxxx' class='success link'>Netflix HOF</a> , <a href='xxxx' class='success link'>Pinterest HOF</a> , <a href='xxxx' class='success link'>Philips HOF</a> , <a href='xxxx' class='success link'>Soundcloud HOF</a> , <a class='success link'>many more...</a>  ", 
   certificates: 'Supported commands: <span class="code">CEH</span>, <span class="code">eWPTX</span>,<span class="code">CRTP</span>,<span class="code">APT</span>,<span class="code">NULLCON</span>',
