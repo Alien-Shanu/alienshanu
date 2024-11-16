@@ -21,7 +21,7 @@ const COMMANDS = {
 
   files: 'Supported commands: <span class="code">notes 🗒️</span>, <span class="code">hacking videos 🖥️</span>, <span class="code">pdf course 💾</span><span class="code">links 🔗</span>',
   showme: '<img src="./showme.png"> <embed src="./showme.mp3"autostart style="visibility:hidden" type="audio/mpeg"></embed>',
-  about: "Hello 👋<br>I'm Alien Shanu 👽. Information Security enthusiast, I do bug bounty hunting, Capture The Flag as a hobby and passion",
+  about: "Hello 👋<br>I'm Alien Shanu 👽. Information Security enthusiast, I do bug bounty hunting, Capture The Flag as a hobby and passion, Highly skilled and certified Ethical Hacker with over 7 years of professional experience in cybersecurity. Adept at identifying system vulnerabilities, firewall evasion, and login bypass. Able to analyze complex information and facilitate understanding among non-technical team members.",
   experience: "No Experience😥",
   education: 'Unknown🤷🏻‍♂️ <img src="./education.webp" alt="WebP rules." width="180" height="180"><embed src="./education.mp3"autostart style="visibility:hidden" type="audio/mpeg"></embed>',
   skills: '<span class="code">Skill:</span>Ethical Hacking, Pentesting, Programming, Bughunting, Graphic Design, 2D Animation, ...<br>',
