@@ -39,11 +39,11 @@ const COMMANDS = {
      fuck: '<img src="./fkst.webp" alt="WebP rules." width="320" height="240"><embed src="./fk.mp3"autostart style="visibility:hidden" type="audio/mpeg"></embed>',
   
      hi: '<span class="code2"> Entha Monoose modeyaanoo </span>',
-     whoareyou: '<span class="code2"> Ninte kunjammede mon, nthaa maire oru modayano </span>',
+     whoareyou: '<span class="code2"> Ninte kunjammede mon, nthaa maire oru modayano </span> <embed src="./whoareyou.mp3"autostart style="visibility:hidden" type="audio/mpeg"></embed>',
      hello: '<span class="code2"> Amme dhe oru pichakkaran </span>',
      iloveyou: '<span class="code2"> Ok, Can i kiss you ? </span>',
      willyoumarryme: '<span class="code2"> Why not , am ready to </span> <span class="code1"> fuck </span>',
-     ping: '<span class="code2"> Hmmm, kurach irunnu plingum nee </span>',
+     ping: '<span class="code2"> Hmmm, kurach irunnu plingum nee </span> <embed src="./ping.mp3"autostart style="visibility:hidden" type="audio/mpeg"></embed>',
      sqlmap: '<span class="code2"> nthoot mairinaadoo, pornhub hekkanano? </span>',
      ls: '<span class="code2"> Sarithayude List veno  Swapnayude list veno ser </span>',
      wget: '<span class="code2"> Ee linkam kittola monoose, pornhubil onnu nokk chilappol kittum </span>',
