@@ -20,7 +20,7 @@ const COMMANDS = {
      skin_install: "<video width='300' height='240' controls><source src='./Rain.mp4' type='video/mp4'></a>",
 
   files: 'Supported commands: <span class="code">notes 🗒️</span>, <span class="code">hacking videos 🖥️</span>, <span class="code">pdf course 💾</span><span class="code">links 🔗</span>',
-  showme: '<img src="./showme.png">',
+  showme: '<img src="./showme.png"> <embed src="./showme.mp3"autostart style="visibility:hidden" type="audio/mpeg"></embed>',
   about: "Hello 👋<br>I'm Alien Shanu 👽. Information Security enthusiast, I do bug bounty hunting, Capture The Flag as a hobby and passion",
   experience: "No Experience😥",
   education: "unknown",
