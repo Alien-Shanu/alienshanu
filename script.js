@@ -5,7 +5,7 @@ window.onload = () => {
  }
 const COMMANDS = {
   whoami:
-    'Alien Shanu 👽 <img src="./whoami.webp" alt="WebP rules." width="320" height="240">',
+    'Alien Shanu 👽 <img src="./whoami.webp" alt="WebP rules." width="240" height="240">',
   
   help: 'Supported commands: <span class="code">tools 🛠️</span>, <span class="code">files 📁</span>, <span class="code">showme 🖼️</span>, <span class="code">about</span>, <span class="code">experience</span>, <span   class="code">education</span>, <span class="code">skills</span>, <span class="code">acknowledges</span>, <span class="code">certificates</span>, <span class="code">contact</span>, <span class="code">resume</span> , <span class="code1">main_commands</span> ',
 
@@ -39,16 +39,16 @@ const COMMANDS = {
      fuck: '<img src="./fkst.webp" alt="WebP rules." width="320" height="240"><embed src="./fk.mp3"autostart style="visibility:hidden" type="audio/mpeg"></embed>',
   
      hi: '<span class="code2"> Entha Monoose modeyaanoo </span>',
-     whoareyou: '<span class="code2"> Ninte kunjammede mon, nthaa maire oru modayano </span> <img src="./whoareyou.webp" alt="WebP rules." width="320" height="240"><embed src="./whoareyou.mp3"autostart style="visibility:hidden" type="audio/mpeg"></embed>',
+     whoareyou: '<span class="code2"> Ninte kunjammede mon, nthaa maire oru modayano </span> <img src="./whoareyou.webp" alt="WebP rules." width="240" height="240"><embed src="./whoareyou.mp3"autostart style="visibility:hidden" type="audio/mpeg"></embed>',
      hello: '<span class="code2"> Amme dhe oru pichakkaran </span>',
      iloveyou: '<span class="code2"> Ok, Can i kiss you ? </span>',
-     willyoumarryme: '<span class="code2"> Why not , am ready to </span> <span class="code1"> fuck </span><img src="./willyoumarryme.webp" alt="WebP rules." width="320" height="240">',
-     ping: '<span class="code2"> Hmmm, kurach irunnu plingum nee </span> <img src="./ping.webp" alt="WebP rules." width="320" height="240"> <embed src="./ping.mp3"autostart style="visibility:hidden" type="audio/mpeg"></embed>',
+     willyoumarryme: '<span class="code2"> Why not , am ready to </span> <span class="code1"> fuck </span><img src="./willyoumarryme.webp" alt="WebP rules." width="240" height="240">',
+     ping: '<span class="code2"> Hmmm, kurach irunnu plingum nee </span> <img src="./ping.webp" alt="WebP rules." width="240" height="240"> <embed src="./ping.mp3"autostart style="visibility:hidden" type="audio/mpeg"></embed>',
      sqlmap: '<span class="code2"> nthoot mairinaadoo, pornhub hekkanano? </span>',
      ls: '<span class="code2"> Sarithayude List veno  Swapnayude list veno ser </span>',
      wget: '<span class="code2"> Ee linkam kittola monoose, pornhubil onnu nokk chilappol kittum </span>',
      md: '<span class="code2"> oompi MD aanathre </span>',
-     cd: '<span class="code2"> Thund CD onnum illadey... </span><img src="./cd.webp" alt="WebP rules." width="320" height="240">',
+     cd: '<span class="code2"> Thund CD onnum illadey... </span><img src="./cd.webp" alt="WebP rules." width="240" height="240">',
   
   
 
