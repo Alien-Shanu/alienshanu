@@ -44,7 +44,7 @@ p {
 .sidebar-image {
     width: 200px;
     border-radius: 100%;
-    margin-top: 2rem;
+    margin-top: 0.5rem;
     text-shadow: 2px 2px 4px #000000;
 }
 
