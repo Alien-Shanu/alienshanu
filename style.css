@@ -42,7 +42,7 @@ p {
 }
 
 .sidebar-image {
-    width: 200px;
+    width: 180px;
     border-radius: 100%;
     margin-top: 0.5rem;
     text-shadow: 2px 2px 4px #000000;
@@ -134,7 +134,7 @@ p {
 .terminal-window {
     border-bottom-right-radius: 5px;
     border-bottom-left-radius: 5px;
-    height: 450px;
+    height: 350px;
     padding: .5rem 0rem 0rem .5rem;
     display: flex;
     flex-direction: column;
