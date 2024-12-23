@@ -3,7 +3,7 @@ body {
     height: 100%;
 }
 body, footer, .hero-body {
-    background-color:rgba(5, 13, 54, 0.55) !important;
+    background-color:rgba(5, 13, 54, 0) !important;
     
 }
 
@@ -42,7 +42,7 @@ p {
 }
 
 .sidebar-image {
-    width: 180px;
+    width: 150px;
     border-radius: 100%;
     margin-top: 0.5rem;
     text-shadow: 2px 2px 4px #000000;
