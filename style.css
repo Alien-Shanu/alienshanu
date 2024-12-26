@@ -38,7 +38,7 @@ p {
 
 .image-overlay {
     background: url('https://i.imgur.com/SsVBVWk.png') 20%;
-    opacity: 0.90;
+    opacity: 0.5;
 }
 
 .sidebar-image {
@@ -134,7 +134,7 @@ p {
 .terminal-window {
     border-bottom-right-radius: 5px;
     border-bottom-left-radius: 5px;
-    height: 290px;
+    height: 254px;
     padding: .5rem 0rem 0rem .5rem;
     display: flex;
     flex-direction: column;
