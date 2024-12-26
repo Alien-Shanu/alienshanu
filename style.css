@@ -38,7 +38,7 @@ p {
 
 .image-overlay {
     background: url('https://i.imgur.com/CW4PHEV.jpeg') 50%;
-    opacity: 0.5;
+    opacity: 50;
 }
 
 .sidebar-image {
