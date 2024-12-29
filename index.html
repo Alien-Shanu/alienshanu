@@ -83,8 +83,8 @@ var video = document.getElementById("myVideo");
 var btn = document.getElementById("myBtn");
 
 function myFunction() {
-  if (video.play) {
-    video.paused();
+  if (video.paused) {
+    video.play();
     btn.innerHTML = "PAUSE";
   } else {
     video.pause();
