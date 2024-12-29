@@ -75,7 +75,7 @@ body {
   <p>A passionate Cybersecurity Specialist, Ethical Hacker, and Python Developer, currently in my final year of studying Computer Science at the Trincomalee Campus, Eastern University of Sri Lanka. My expertise lies in identifying and mitigating security risks, developing innovative tools, and staying ahead of the curve in the ever-evolving field of cybersecurity.
 
 As someone deeply committed to creating a safer digital environment, I specialize in penetration testing, network security, and threat intelligence, while leveraging my skills in Python programming to build custom tools that solve real-world security challenges. </p>
-  <button id="myBtn" onclick="myFunction()">Pause</button>
+  <button id="myBtn" onclick="myFunction()">PLAY</button>
 </div>
 
 <script>
@@ -83,8 +83,8 @@ var video = document.getElementById("myVideo");
 var btn = document.getElementById("myBtn");
 
 function myFunction() {
-  if (video.paused) {
-    video.play();
+  if (video.play) {
+    video.pause();
     btn.innerHTML = "PAUSE";
   } else {
     video.pause();
