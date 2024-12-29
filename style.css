@@ -176,7 +176,7 @@ p {
 .terminal-line,
 .dummy-keyboard {
     position: relative;
-    font-family: 'Anonymous Pro', monospace;
+    font-family: 'Anonymous Pro, monospace';
     font-size: .9rem;
     color: #ffffff;
 }
@@ -197,7 +197,7 @@ p {
     color: #ff0000
 }
 .code2, .fa-heart {
-    color: #002aff
+    color: #d2ff00
 }
 .fa-heart {
     padding-top: 0.5rem;
