@@ -132,7 +132,7 @@ p {
 .terminal-window {
     border-bottom-right-radius: 5px;
     border-bottom-left-radius: 5px;
-    height: 328px;
+    height: 254px;
     padding: .5rem 0rem 0rem .5rem;
     display: flex;
     flex-direction: column;
